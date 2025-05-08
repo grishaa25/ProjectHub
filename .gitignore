@@ -1,0 +1,7 @@
+backend/Packages-Environment
+**/__pycache__/
+venv/
+app.db
+**/node_modules/
+postman_collection.json
+uploads/
